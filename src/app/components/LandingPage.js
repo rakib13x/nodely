@@ -678,7 +678,7 @@ const LandingPage = () => {
                 </div>
                 <div className="group relative w-[100px] h-[100px] flex items-center justify-center">
                   <div className="absolute inset-0 bg-[#161616] rounded-lg group-hover:bg-[#17312C]/20 transition-colors"></div>
-                  <Image
+                  <img
                     src="https://i.ibb.co.com/S4FymJhx/icon.png"
                     alt="icon"
                     className="w-[75px] h-[75px] object-contain relative z-10 group-hover:scale-110 transition-transform"
